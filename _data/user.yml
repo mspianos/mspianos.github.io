@@ -1,0 +1,33 @@
+type: Person
+lastname: sarrazy
+firstname: Mathieu
+# mobile: +336 95 06 31 89
+mobile: +33X XX XX XX XX
+email: sarray.mathieu@gmail.com
+contact:
+  phone:
+    - +339 546 645 45
+    - +336 666 666 66
+  email:
+    - contact@matsar.fr
+
+openingHours: Du lundi au vendredi, de 9H00 à 19H00
+coverAreas:
+  - name: Ardéche
+    cities:
+      - Ville 1
+      - Ville 2
+      - Ville 3
+  - name: PACA
+    cities:
+      - Nice
+      - Grasse
+      - Fréjus
+  # map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1468196.3362798623!2d4.853396502545295!3d44.05091722310776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b668198af953ad%3A0xb71690263d16d1a7!2sProvence-Alpes-C%C3%B4te%20d&#39;Azur!5e0!3m2!1sfr!2sfr!4v1615932586366!5m2!1sfr!2sfr
+
+title: Technicien, accordeur / restaurateur de piano
+school: Diplômé de l’école Ignace Pleyel à Loos 
+about:
+  - Mon parcours est quelque peu atypique. Ingénieur en mécanique, j’ai conçu et élaboré des machines automatisées et robotisées pour de nombreux secteurs de l’industrie pendant plus de 15 ans. 
+  - Vers mes 40 ans, j’ai eu besoin de trouver du manuel et du mouvement dans ma profession tout en gardant de la technique et de l’intellectuel, de trouver de la proximité avec les gens, de me recentrer sur des valeurs plus simples et artisanales. Un travail plus humain et plus riche de sens. 
+  - Je me suis longuement questionné sur un métier qui me permettrait de faire le lien entre ma personnalité, ma créativité, mon besoin de rigueur, la technique et le manuel. Toutes ces réflexions m’ont amené à conclure que le métier d’accordeur restaurateur de piano en serait ma synthèse.
