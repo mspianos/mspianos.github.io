@@ -36,7 +36,7 @@ hero:
 # Accord
 accord:
   container:
-    size: fluid
+    type: fluid
     columns:
       - size: 7
         offset: 1
@@ -46,7 +46,7 @@ accord:
 # Réglage mécanique
 reglage:
   container:
-    size: fluid
+    type: fluid
     columns:
       - size: 7
         offset: 4
@@ -56,7 +56,7 @@ reglage:
 # Harmonisation
 harmonisation:
   container:
-    size: fluid
+    type: fluid
     columns:
       - size: 6
         offset: 5
@@ -66,7 +66,7 @@ harmonisation:
 # Réparation
 reparation:
   container:
-    size: fluid
+    type: fluid
     columns:
       - size: 7
         offset: 1
@@ -76,7 +76,7 @@ reparation:
 # Restauration, Ébénisterie & Laque
 restauration:
   container:
-    size: fluid
+    type: fluid
     columns:
       - size: 7
         offset: 1
@@ -86,7 +86,7 @@ restauration:
 # Le numérique dans l’acoustique
 numerique:
   container:
-    size: fluid
+    type: fluid
     columns:
       - size: 7
         offset: 4
