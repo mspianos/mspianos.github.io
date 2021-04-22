@@ -3,8 +3,7 @@ image: ./assets/img/backgrounds/w1920/Presentation.jpg
 image-position: right center
 ---
 
-## Technicien, accordeur / restaurateur de piano
-#### Diplômé de l’école Ignace Pleyel à Loos (59)
+## Qui suis-je ?
 
 Fils d’artisans menuisiers ébénistes, j’ai dès le plus jeune âge goûté aux plaisirs du travail du bois, à la précision et la finesse nécessaires pour la réalisation de meubles artisanaux. La recherche d’équilibre, d’esthétique et de design a pendant toutes ces années éveillé et nourri ma créativité.
 
