@@ -15,9 +15,7 @@ header:
   mode: fixed-top
 #   offset: 500px
   logo:
-    text: |
-      Mathieu  
-      Sarrazy
+    text: MS pianos
     # image: 
     url: "#"
   nav:
@@ -106,7 +104,6 @@ contact:
   contact:
     title: |
       ## **Contactez** moi
-      Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.
     form:
       mailto: contact@exemple.com
 
