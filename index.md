@@ -26,10 +26,10 @@ header:
 hero:
   center-text:
     image: ./assets/img/backgrounds/w1920/Acceuil.jpg
-    title: "**Sarrazy** Mathieu"
+    title: "Mathieu **Sarrazy**"
     texts:
       - Technicien, accordeur / restaurateur de piano
-      - Diplômé de l’école Ignace Pleyel à Loos
+      - Diplômé de l’école Ignace Pleyel à Loos (59)
     actions:
       - label: Contactez moi
         url: "#contact"  
@@ -104,6 +104,9 @@ atelier:
 # Contact
 contact:
   contact:
+    title: |
+      ## **Contactez** moi
+      Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.
     form:
       mailto: contact@exemple.com
 

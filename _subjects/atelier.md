@@ -13,5 +13,5 @@ photos:
 
 ## **L'atelier** en photos
 
-Voici un aperçu de ce qui rythme mon quotidient.  
-Clickez sur une photo pour voir la **gallerie complète!**
+Voici un aperçu de ce qui rythme mon quotidien.  
+Cliquez sur une photo pour voir la **galerie complète!**
