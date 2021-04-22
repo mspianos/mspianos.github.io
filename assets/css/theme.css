@@ -12,8 +12,8 @@
   --speach-font: "Comic Neue";
 
 
-  /* --accent-color:         hsl(36, 100%, 62%); */
-  --accent-color-h:       36;
+  /* --accent-color:		 hsl(36, 100%, 62%); */
+  --accent-color-h:	   36;
   
 
   --topbar-height: 50px;
@@ -31,14 +31,18 @@
   
 } */
 
-.gallery, .contact {
-    background-color: var(--solid-color);
+.about, .gallery, .contact {
+	background-color: var(--solid-color);
 }
 
-section .content {
+section .content,
+.about p {
   text-align: justify;
 }
 
+.about h2 {
+	margin-bottom: 1.5rem;
+}
 
 @media (min-height: 1100px) {
 	section {
