@@ -35,61 +35,74 @@ hero:
 
 # Accord
 accord:
-  columns:
-    - size: 7
-      offset: 1
-      content: _subjects/accord.md
-      class: content
+  container:
+    size: fluid
+    columns:
+      - size: 7
+        offset: 1
+        content: _subjects/accord.md
+        class: content
 
 # Réglage mécanique
 reglage:
-  columns:
-    - size: 7
-      offset: 4
-      content: _subjects/reglage.md
-      class: content
+  container:
+    size: fluid
+    columns:
+      - size: 7
+        offset: 4
+        content: _subjects/reglage.md
+        class: content
 
 # Harmonisation
 harmonisation:
-  columns:
-    - size: 6
-      offset: 5
-      content: _subjects/harmonisation.md
-      class: content
+  container:
+    size: fluid
+    columns:
+      - size: 6
+        offset: 5
+        content: _subjects/harmonisation.md
+        class: content
 
 # Réparation
 reparation:
-  columns:
-    - size: 7
-      offset: 1
-      content: _subjects/reparation.md
-      class: content
+  container:
+    size: fluid
+    columns:
+      - size: 7
+        offset: 1
+        content: _subjects/reparation.md
+        class: content
 
 # Restauration, Ébénisterie & Laque
 restauration:
-  columns:
-    - size: 7
-      offset: 1
-      content: _subjects/restauration.md
-      class: content
+  container:
+    size: fluid
+    columns:
+      - size: 7
+        offset: 1
+        content: _subjects/restauration.md
+        class: content
 
 # Le numérique dans l’acoustique
 numerique:
-  columns:
-    - size: 7
-      offset: 4
-      content: _subjects/numerique.md
-      class: content
+  container:
+    size: fluid
+    columns:
+      - size: 7
+        offset: 4
+        content: _subjects/numerique.md
+        class: content
 
 
 
 # Présentation
 about:
-  columns:
-    - size: 12
-    #   offset: 4
-      content: _subjects/presentation.md
-      class: content
+  container:
+    columns:
+      - size: 12
+      #   offset: 4
+        content: _subjects/presentation.md
+        class: xcontent
 
 
 # Gallerie
