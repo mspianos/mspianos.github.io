@@ -24,13 +24,28 @@ header:
 hero:
   center-text:
     image: ./assets/img/backgrounds/w1920/Acceuil.jpg
-    title: "Mathieu **Sarrazy**"
-    texts:
-      - Technicien, accordeur / restaurateur de piano
-      - Diplômé de l’école [Ignace Pleyel à Loos (59)](https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/)
-    actions:
-      - label: Contactez moi
-        url: "#contact"  
+    content: |
+      ## Mathieu **Sarrazy**
+      {: .animate__animated .animate__fadeInDown data-body-bg="./assets/img/backgrounds/w1920/Acceuil.jpg" }
+      
+      Technicien, accordeur / restaurateur de piano
+      {: .animate__animated .animate__fadeInUp}
+      
+      Diplômé de l’école [Ignace Pleyel à Loos (59)](https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/)
+      {: .animate__animated .animate__fadeInUp}
+      
+      [Contactez moi](#contact){: .btn .animate__animated .animate__fadeInUp .scrollto}
+
+        
+        
+        
+#    title: "Mathieu **Sarrazy**"
+#    texts:
+#      - Technicien, accordeur / restaurateur de piano
+#      - Diplômé de l’école [Ignace Pleyel à Loos (59)](https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/)
+#    actions:
+#      - label: Contactez moi
+#        url: "#contact"  
 
 
 # Accord
