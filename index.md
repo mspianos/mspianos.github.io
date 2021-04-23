@@ -27,7 +27,7 @@ hero:
     title: "Mathieu **Sarrazy**"
     texts:
       - Technicien, accordeur / restaurateur de piano
-      - Diplômé de l’école Ignace Pleyel à Loos (59)
+      - Diplômé de l’école [Ignace Pleyel à Loos (59)](https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/)
     actions:
       - label: Contactez moi
         url: "#contact"  
