@@ -6,6 +6,9 @@ layout: blox
 # title: 
 
 
+fond:
+  image-fader:
+    class: bg-fixed bg-cover bg-anim #bg-fx-layer
 
 header:
   topbar:

@@ -30,6 +30,9 @@
 /* .theme-dark {
   
 } */
+.bg-anim {
+	--bg-anim-duration: 3s;
+}
 
 .about, .gallery, .contact {
 	background-color: var(--solid-color);
