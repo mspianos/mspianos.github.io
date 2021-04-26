@@ -4,6 +4,7 @@ image-position: right center
 ---
 
 ## Qui suis-je ?
+{: data-body-bg="./assets/img/backgrounds/w1920/Presentation.jpg" data-body-bg-position="right center" }
 
 Fils d’artisans menuisiers ébénistes, j’ai dès le plus jeune âge goûté aux plaisirs du travail du bois, à la précision et la finesse nécessaires pour la réalisation de meubles artisanaux. La recherche d’équilibre, d’esthétique et de design a pendant toutes ces années éveillé et nourri ma créativité.
 
