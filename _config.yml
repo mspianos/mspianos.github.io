@@ -20,6 +20,7 @@ tracking:
   matomo:
     trackerUrl: piwik.p2p.legal/
     siteId: 13
+devtools: true
 
 collections:
   - subjects
