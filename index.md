@@ -10,19 +10,19 @@ fond:
   image-fader:
     class: bg-fixed bg-cover bg-anim #bg-fx-layer
 
-header:
-  topbar:
-    - phone: "[+36 66 45 89 54](tel:+36 66 45 89 54)"
-    - envelope: "[aze@exemple.com](mailto:aze@exemple.com)"
-    - geo-alt: Ardèche / Côte d'Azur
-  mode: fixed-top
-#   offset: 500px
-  logo:
-    text: MS pianos
-    # image: 
-    url: "#"
-  nav:
-    align: right
+# header:
+#   topbar:
+#     - phone: "[+36 66 45 89 54](tel:+36 66 45 89 54)"
+#     - envelope: "[aze@exemple.com](mailto:aze@exemple.com)"
+#     - geo-alt: Ardèche / Côte d'Azur
+#   mode: fixed-top
+# #   offset: 500px
+#   logo:
+#     text: MS pianos
+#     # image: 
+#     url: "#"
+#   nav:
+#     align: right
   
 hero:
   center-text:
@@ -116,11 +116,12 @@ numerique:
 # Présentation
 about:
   container:
+    class: solid
     columns:
       - size: 12
       #   offset: 4
         content: _subjects/presentation.md
-        class: xcontent
+        class: 
 
 
 # Gallerie
@@ -133,6 +134,7 @@ atelier:
 # Contact
 contact:
   contact:
+    class: solid
     title: |
       ## **Contactez** moi
     form:
