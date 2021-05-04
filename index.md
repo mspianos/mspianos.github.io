@@ -116,7 +116,6 @@ numerique:
 # Présentation
 about:
   container:
-    class: solid
     columns:
       - size: 12
       #   offset: 4
