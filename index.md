@@ -137,7 +137,7 @@ contact:
     title: |
       ## **Contactez** moi
     form:
-      mailto: contact@exemple.com
+      mailto: sarray.mathieu@gmail.com # < site.data.author.email
 
 
 

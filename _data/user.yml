@@ -1,15 +1,13 @@
 type: Person
-lastname: sarrazy
+lastname: Sarrazy
 firstname: Mathieu
-# mobile: +336 95 06 31 89
-mobile: +33X XX XX XX XX
+mobile: +336 95 06 31 89
 email: sarray.mathieu@gmail.com
 contact:
   phone:
-    - +339 546 645 45
-    - +336 666 666 66
+    - +336 95 06 31 89
   email:
-    - contact@matsar.fr
+    - sarray.mathieu@gmail.com
 
 openingHours: Du lundi au vendredi, de 9H00 à 19H00
 coverAreas:
