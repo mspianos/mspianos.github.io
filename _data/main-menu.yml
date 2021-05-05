@@ -22,37 +22,37 @@
 
 
 
-- url: "#accord"
+- url: "./#accord"
   label: Accord
   icon:
   
-- url: "#reglage"
+- url: "./#reglage"
   label: Réglage mécanique
   icon:
 
-- url: "#harmonisation"
+- url: "./#harmonisation"
   label: Harmonisation
   icon:
 
-- url: "#reparation"
+- url: "./#reparation"
   label: Réparation
   icon:
 
-- url: "#restauration"
+- url: "./#restauration"
   label: Restauration #, Ébénisterie & Laque
   icon:
   
-- url: "#numerique"
+- url: "./#numerique"
   label: Le numérique #dans l’acoustique
   icon:
 
 
 
-- url: "#about"
+- url: "./#about"
   label: Qui suis-je
   icon:
 
-- url: "#contact"
+- url: "./#contact"
   label: Contact
   class: btn call-to-action
   icon:

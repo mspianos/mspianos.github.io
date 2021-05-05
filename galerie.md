@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: blox
-title: Galerie de photos 
+title: Galerie de photos
 
 
 
@@ -24,10 +24,13 @@ title: Galerie de photos
 #     align: right
 
   
-# Gallerie
+# Galerie
 atelier:
-  gallery: #_subjects/atelier.md
+  gallery: 
     mode: masonry
+    content: |
+      ## Galerie de photos
+    photo-class: gallery-glightbox
     photos:
       - assets/img/gallery/d9d931_d3dbd410b5044063bdcdf8853bc4a43c.jpg
       - assets/img/gallery/pexels-cottonbro-4088808.jpg

@@ -123,7 +123,7 @@ about:
         class: 
 
 
-# Gallerie
+# Galerie
 atelier:
   gallery: _subjects/atelier.md
     # photos:
