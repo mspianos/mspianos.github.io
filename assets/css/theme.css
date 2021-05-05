@@ -20,7 +20,7 @@
   --topbar-color: transparent;
   /* --topbar-text-color: rgba(255, 255, 255, 0.7); */
   /* --header-color: rgba(26, 24, 22, 0.85); */
-  --header-effect: blur(5px);
+  --header-effect: blur(15px);
 
   --hero-bg-color: rgba(39, 37, 34, 0.3);
 

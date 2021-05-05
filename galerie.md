@@ -32,6 +32,7 @@ atelier:
       ## Galerie de photos
     photo-class: gallery-glightbox
     photos:
+      - assets/img/gallery/people-3101523.jpg
       - assets/img/gallery/d9d931_d3dbd410b5044063bdcdf8853bc4a43c.jpg
       - assets/img/gallery/pexels-cottonbro-4088808.jpg
       - assets/img/gallery/piano-3396834.jpg
@@ -40,6 +41,5 @@ atelier:
       - assets/img/gallery/grand-piano-1716052.jpg
       - assets/img/gallery/piano-1170291.jpg
       - assets/img/gallery/piano-915784.jpg
-      - assets/img/gallery/people-3101523.jpg
 
 ---
