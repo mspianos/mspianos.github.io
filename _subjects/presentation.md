@@ -1,6 +1,6 @@
 ---
-image: ./assets/img/backgrounds/w1920/Presentation.jpg
-image-position: right center
+# image: ./assets/img/backgrounds/w1920/Presentation.jpg
+# image-position: right center
 ---
 
 ## Qui suis-je ?

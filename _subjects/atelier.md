@@ -1,5 +1,5 @@
 ---
-image: ../img/backgrounds/w1980/grand-piano-1716052.jpg
+# image: ../img/backgrounds/w1980/grand-piano-1716052.jpg
 
 photo-link: ./galerie.html
 photos:
