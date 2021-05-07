@@ -1,6 +1,9 @@
-type: Person
+'@type': Person
+'@id': https://mspianos.fr
+# name: 
 lastname: Sarrazy
 firstname: Mathieu
+
 mobile: +336 95 06 31 89
 email: contact@mspianos.fr
 contact:
@@ -8,6 +11,10 @@ contact:
     - +336 95 06 31 89
   email:
     - contact@mspianos.fr
+
+sameAs:
+  - https://www.facebook.com/mspianos
+  - https://instagram.com/mspianos
 
 openingHours: Du lundi au vendredi, de 9H00 à 19H00
 coverAreas:
