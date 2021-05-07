@@ -5,6 +5,7 @@ image-position: 71% 50%
 
 ## Accord
 
-Contrairement aux autres instruments à cordes, le piano demande que l'accord (l'accordage) soit fait **par un professionnel**. Accorder un piano consiste à venir réajuster la tension de l’ensemble des cordes les unes par rapports aux autres (220 cordes pour 88 notes) et ainsi de rétablir la justesse harmonique de l’instrument qui s’altère inéluctablement de par le jeu du pianiste et le temps.
+Parmi les instruments à cordes, le piano fait office d’exception puisque son accord (l'accordage) est **confié à un professionnel**.  
+Accorder un piano, c’est venir réajuster la tension de l’ensemble des cordes les unes par rapport aux autres (220 cordes pour 88 notes) et rétablir ainsi la justesse harmonique de l’instrument qui s’altère inéluctablement de par le jeu du pianiste et du temps.
 
-Un accord régulier, à minima 1 fois par an, permet également à l’accordeur d’avoir un œil sur l’ensemble de votre instrument, de diagnostiquer et de prévenir les pannes futures.
+Un accord régulier, **a minima 1 fois par an**, permet également à l’accordeur de porter son attention sur l’ensemble de votre instrument, de diagnostiquer et de prévenir les futures défaillances. 
