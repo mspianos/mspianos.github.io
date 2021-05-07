@@ -62,8 +62,8 @@ defaults:
       header:
         topbar:
           - phone: "[+336 95 06 31 89](tel:+336 95 06 31 89)"
-          - envelope: "[sarray.mathieu@gmail.com](mailto:sarray.mathieu@gmail.com)"
-          - geo-alt: Alpes marîtimes / Var / Drôme
+          - envelope: "[contact@mspianos.fr](mailto:contact@mspianos.fr)"
+          - geo-alt: Alpes maritimes / Var / Drôme
         mode: fixed-top
         # offset: 500px
         logo:

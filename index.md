@@ -137,7 +137,7 @@ contact:
     title: |
       ## **Contactez** moi
     form:
-      mailto: sarray.mathieu@gmail.com # < site.data.author.email
+      mailto: contact@mspianos.fr # < site.data.author.email
 
 
 
