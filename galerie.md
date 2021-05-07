@@ -30,7 +30,7 @@ atelier:
     mode: masonry
     content: |
       ## Galerie de photos
-    photo-class: gallery-glightbox
+    photo-class: gallery-lightbox
     photos:
       - assets/img/gallery/people-3101523.jpg
       - assets/img/gallery/d9d931_d3dbd410b5044063bdcdf8853bc4a43c.jpg
