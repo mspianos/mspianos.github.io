@@ -10,14 +10,3 @@ _« Restaurer un piano »_, c’est offrir la possibilité de rendre toute sa je
 Lorsque l’entretien régulier et les petites réparations ne suffisent plus à maintenir les qualités de l’instrument, des **réparations plus importantes** sont certainement à envisager : changement du cordage, réparation de la structure harmonique, restauration de la mécanique du clavier ou encore remise en beauté du meuble, si le piano le permet et en vaut l’investissement.
 
 C’est en atelier, et après plusieurs semaines de travail que votre piano pourra **retrouver une nouvelle jeunesse**.
-
----------------------------------------
-
-_« Restaurer un piano »_, c’est offrir la possibilité de rendre toute sa jeunesse à un instrument fatigué par l’usure du jeu et du temps.  
-Lorsque l’entretien régulier et les petites réparations ne suffisent plus à maintenir les qualités de l’instrument, des **réparations plus importantes** sont certainement à envisager, si le piano le permet et en vaut l’investissement : 
-- changement du cordage
-- réparation de la structure harmonique
-- restauration de la mécanique du clavier 
-- ou encore remise en beauté du meuble.
-
-C’est en atelier, et après plusieurs semaines de travail que votre piano pourra **retrouver une nouvelle jeunesse**.
