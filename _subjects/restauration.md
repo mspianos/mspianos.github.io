@@ -1,10 +1,10 @@
 ---
-# image: ./assets/img/backgrounds/w1920/Restauration.jpg
+# image: ./medias/w1920/Restauration.jpg
 # image-position: 50% 100%
 ---
 
 ## Restauration, Ébénisterie & Laque
-{: data-body-bg="./assets/img/backgrounds/w1920/Restauration.jpg" data-body-bg-position="50% 100%" }
+{: data-body-bg="./medias/w1920/Restauration.jpg" data-body-bg-position="50% 100%" }
 
 _« Restaurer un piano »_, c’est offrir la possibilité de rendre toute sa jeunesse à un instrument fatigué par l’usure du jeu et du temps.  
 Lorsque l’entretien régulier et les petites réparations ne suffisent plus à maintenir les qualités de l’instrument, des **réparations plus importantes** sont certainement à envisager : changement du cordage, réparation de la structure harmonique, restauration de la mécanique du clavier ou encore remise en beauté du meuble, si le piano le permet et en vaut l’investissement.

@@ -26,10 +26,10 @@ fond:
   
 hero:
   center-text:
-    image: ./assets/img/backgrounds/w1920/Acceuil.jpg
+    image: ./medias/w1920/Acceuil.jpg
     content: |
       ## Mathieu **Sarrazy**
-      {: .animate__animated .animate__fadeInDown data-body-bg="./assets/img/backgrounds/w1920/Acceuil.jpg" }
+      {: .animate__animated .animate__fadeInDown data-body-bg="./medias/w1920/Acceuil.jpg" }
       
       Technicien, accordeur / restaurateur de piano
       {: .animate__animated .animate__fadeInUp}
