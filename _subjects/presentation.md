@@ -1,6 +1,9 @@
 ---
 # image: ./medias/w1920/Presentation.jpg
 # image-position: right center
+summary: >
+  Fils d’artisan menuisier ébéniste, pianiste amateur et amoureux de la musique, le métier d’accordeur restaurateur de piano m’est très vite apparu comme une évidence.
+  Il me permettrait de construire une certaine cohérence entre créativité, musicalité, besoin de rigueur, technicité et travail manuel dans une relation plus directe et plus authentique, retrouver le contact avec la matière et de renouer avec des valeurs plus artisanales, au sens noble du terme. 
 ---
 
 ## Qui suis-je ?
@@ -17,4 +20,3 @@ Amoureux de la musique et du son depuis mon plus jeune âge et pianiste amateur,
 Le métier d’accordeur restaurateur de piano m’est très vite apparu comme une évidence. Il me permettrait de faire le lien avec ma personnalité mais aussi de construire une certaine cohérence entre créativité, musicalité, besoin de rigueur, technicité et application manuelle. 
 
 Albert Einstein disait : “plus j’apprends et plus je réalise que je ne sais pas”, humblement, je constate qu’apprendre à tout âge est fabuleux et qu’en plus… j’adore ça !!!
-
