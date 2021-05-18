@@ -1,38 +1,53 @@
-'@type': Person
-'@id': https://mspianos.fr
-# name: 
+"@context": "https://schema.org"
+"@type": Person
+"@id": https://mspianos.fr/#about
+url: https://mspianos.fr/#about
+
 lastname: Sarrazy
 firstname: Mathieu
+name: Mathieu Sarrazy
 
-mobile: +336 95 06 31 89
-email: contact@mspianos.fr
-contact:
-  phone:
-    - +336 95 06 31 89
-  email:
-    - contact@mspianos.fr
+# image:
+  # "@type": ImageObject
+  # "@id": https://mspianos.fr/#personlogo
+  # url: https://mspianos.fr/assets/img/...
+  # caption: Mathieu Sarrazy
+
+description: >
+  Fils d’artisan menuisier ébéniste, pianiste amateur et amoureux de la musique, le métier d’accordeur restaurateur de piano m’est très vite apparu comme une évidence.
+  Il me permettrait de construire une certaine cohérence entre créativité, musicalité, besoin de rigueur, technicité et travail manuel dans une relation plus directe et plus authentique, retrouver le contact avec la matière et de renouer avec des valeurs plus artisanales, au sens noble du terme.
 
 sameAs:
   - https://www.facebook.com/mspianos
   - https://instagram.com/mspianos
 
-openingHours: Du lundi au vendredi, de 9H00 à 19H00
-coverAreas:
-  - name: 
-    cities:
-      - Alpes Maritimes (06)
-      - Var (83)
-      - Alpes de Haute Provence (04)
-  - name: 
-    cities:
-      - Drôme (26)
-      - Ardèche (07)
-      - Isère (38)
-  # map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1468196.3362798623!2d4.853396502545295!3d44.05091722310776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b668198af953ad%3A0xb71690263d16d1a7!2sProvence-Alpes-C%C3%B4te%20d&#39;Azur!5e0!3m2!1sfr!2sfr!4v1615932586366!5m2!1sfr!2sfr
+telephone: &tel +336 95 06 31 89
+email: &email contact@mspianos.fr
+contactPoint:
+  "@type": ContactPoint
+  contactType: mobile
+  telephone:
+    - *tel
+  email:
+    - *email
 
-title: Technicien, accordeur / restaurateur de piano
-school: Diplômé de l’école Ignace Pleyel à Loos 
-about:
-  - Mon parcours est quelque peu atypique. Ingénieur en mécanique, j’ai conçu et élaboré des machines automatisées et robotisées pour de nombreux secteurs de l’industrie pendant plus de 15 ans. 
-  - Vers mes 40 ans, j’ai eu besoin de trouver du manuel et du mouvement dans ma profession tout en gardant de la technique et de l’intellectuel, de trouver de la proximité avec les gens, de me recentrer sur des valeurs plus simples et artisanales. Un travail plus humain et plus riche de sens. 
-  - Je me suis longuement questionné sur un métier qui me permettrait de faire le lien entre ma personnalité, ma créativité, mon besoin de rigueur, la technique et le manuel. Toutes ces réflexions m’ont amené à conclure que le métier d’accordeur restaurateur de piano en serait ma synthèse.
+
+jobTitle: Technicien, accordeur / restaurateur de piano
+school: &school Diplômé de l’école Ignace Pleyel à Loos (59)
+
+hasCredential:
+  '@type': EducationalOccupationalCredential
+  educationalLevel: Diplôme
+  url: https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/
+  name: *school
+  recognizedBy: 
+    '@type': Organization
+    url: https://ecole-regionale-deficients-visuels.enthdf.fr/
+    image:
+      "@id": https://scontent-cdt1-1.xx.fbcdn.net/v/t1.18169-1/c3.0.194.194a/10377615_593579420747956_1517162341323191441_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=dgDaTuy8-YgAX-U9JYU&_nc_ht=scontent-cdt1-1.xx&tp=29&oh=6c06ef83e19eeacafa71b148829272e6&oe=60C9FEF9
+    name: ERDV LOOS
+    alternateName: Ecole Ignace Pleyel
+    sameAs:
+      - https://www.facebook.com/pages/category/School/ERDV-LOOS-Officiel-593578784081353/
+    
+#hasOccupation: {"@id": https://mspianos.fr/#LocalBusiness }

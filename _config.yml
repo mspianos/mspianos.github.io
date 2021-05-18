@@ -4,16 +4,26 @@
 
 title: MS pianos
 tagline: accordeur / restaurateur de piano
-email: sarrazy.mathieu@gmail.com
+email: &email contact@mspianos.fr
+
+# Here are a few tips you should remember when writing descriptions for your content:
+# - Keep it within 155 characters to make sure it is displayed properly in SERPs
+# - Include your focus keyword at least once — preferably near the beginning
+# - It should accurately describe what users should expect from your content
+# - Add a call-to-action or CTA to encourage more users to click
 description: >- # this means to ignore newlines until "baseurl:"
   Contrairement aux autres instruments à cordes, le piano demande que l'accord 
-  soit fait par un professionnel. Mon parcours est quelque peu atypique, j’ai 
-  eu besoin de trouver du manuel et du mouvement dans ma profession, de me recentrer 
-  sur des valeurs plus simples et artisanales. 
-  Un travail plus humain et plus riche de sens. 
+  soit fait par un professionnel. Fils d’artisan menuisier ébéniste, pianiste amateur 
+  et amoureux de la musique, le métier d’accordeur restaurateur de piano m’est 
+  très vite apparu comme une évidence. Il me permettrait de construire une certaine 
+  cohérence entre créativité, musicalité, besoin de rigueur, technicité et travail manuel 
+  dans une relation plus directe et plus authentique, retrouver le contact avec la matière 
+  et de renouer avec des valeurs plus artisanales, au sens noble du terme.  
 
-baseurl: "/mspianos" # the subpath of your site, e.g. /blog
+lang: fr
+baseurl: "/mspianos.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+canonical_url: 'https://example.com/'
 # twitter_username: jekyllrb
 # github_username:  jekyll
 tracking:

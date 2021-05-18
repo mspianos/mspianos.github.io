@@ -1,0 +1,32 @@
+# "@context": "https://schema.org"
+"@type": LocalBusiness
+"@id": https://mspianos.fr
+url: https://mspianos.fr
+
+name: MS pianos
+
+founder:
+  "@id": https://mspianos.fr/#about
+
+# openingHours: Mo, Tu, We, Th, Fr 09:00-19:00
+# openingHours: Du lundi au vendredi, de 9H00 à 19H00
+
+areaServed:
+  - "@type": AdministrativeArea
+    containsPlace:
+      - "@type": AdministrativeArea
+        name: Alpes Maritimes (06)
+      - "@type": AdministrativeArea
+        name: Var (83)
+      - "@type": AdministrativeArea
+        name: Alpes de Haute Provence (04)
+  - "@type": AdministrativeArea
+    containsPlace:
+      - "@type": AdministrativeArea
+        name: Drôme (26)
+      - "@type": AdministrativeArea
+        name: Ardèche (07)
+      - "@type": AdministrativeArea
+        name: Isère (38)
+
+
