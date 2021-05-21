@@ -3,9 +3,12 @@
 "@id": https://mspianos.fr/#about
 url: https://mspianos.fr/#about
 
-lastname: Sarrazy
-firstname: Mathieu
+familyName: Sarrazy
+givenName: Mathieu
 name: Mathieu Sarrazy
+
+jobTitle: Technicien, accordeur / restaurateur de piano
+
 
 # image:
   # "@type": ImageObject
@@ -31,15 +34,11 @@ contactPoint:
   email:
     - *email
 
-
-jobTitle: Technicien, accordeur / restaurateur de piano
-school: &school Diplômé de l’école Ignace Pleyel à Loos (59)
-
 hasCredential:
   '@type': EducationalOccupationalCredential
   educationalLevel: Diplôme
   url: https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/
-  name: *school
+  name: Diplômé de l’école Ignace Pleyel à Loos (59)
   recognizedBy: 
     '@type': Organization
     url: https://ecole-regionale-deficients-visuels.enthdf.fr/
