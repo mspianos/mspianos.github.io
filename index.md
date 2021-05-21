@@ -8,22 +8,9 @@ layout: blox
 
 fond:
   image-fader:
-    class: bg-cover bg-anim #bg-fx-layer
+    class: bg-cover bg-anim
 
-# header:
-#   topbar:
-#     - phone: "[+36 66 45 89 54](tel:+36 66 45 89 54)"
-#     - envelope: "[aze@exemple.com](mailto:aze@exemple.com)"
-#     - geo-alt: Ardèche / Côte d'Azur
-#   mode: fixed-top
-# #   offset: 500px
-#   logo:
-#     text: MS pianos
-#     # image: 
-#     url: "#"
-#   nav:
-#     align: right
-  
+
 hero:
   center-text:
     image: ./medias/w1920/Acceuil.jpg
@@ -39,17 +26,6 @@ hero:
       
       [Contactez moi](#contact){: .btn .animate__animated .animate__fadeInUp .scrollto}
 
-        
-        
-        
-#    title: "Mathieu **Sarrazy**"
-#    texts:
-#      - Technicien, accordeur / restaurateur de piano
-#      - Diplômé de l’école [Ignace Pleyel à Loos (59)](https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/)
-#    actions:
-#      - label: Contactez moi
-#        url: "#contact"  
-
 
 # Accord
 accord:
@@ -61,6 +37,7 @@ accord:
         content: _subjects/accord.md
         class: content
 
+
 # Réglage mécanique
 reglage:
   container:
@@ -70,6 +47,7 @@ reglage:
         offset: 4
         content: _subjects/reglage.md
         class: content
+
 
 # Harmonisation
 harmonisation:
@@ -81,6 +59,7 @@ harmonisation:
         content: _subjects/harmonisation.md
         class: content
 
+
 # Réparation
 reparation:
   container:
@@ -90,6 +69,7 @@ reparation:
         offset: 1
         content: _subjects/reparation.md
         class: content
+
 
 # Restauration, Ébénisterie & Laque
 restauration:
@@ -101,6 +81,7 @@ restauration:
         content: _subjects/restauration.md
         class: content
 
+
 # Le numérique dans l’acoustique
 numerique:
   container:
@@ -110,7 +91,6 @@ numerique:
         offset: 4
         content: _subjects/numerique.md
         class: content
-
 
 
 # Présentation
@@ -127,8 +107,8 @@ about:
 atelier:
   gallery: _subjects/atelier.md
     # photos:
-    #   - assets/img/gallery/piano-462320.jpg
-    #   - assets/img/gallery/piano-915784.jpg
+    #   - 
+
 
 # Contact
 contact:
@@ -138,7 +118,5 @@ contact:
       ## **Contactez** moi
     form:
       mailto: contact@mspianos.fr # < site.data.author.email
-
-
 
 ---

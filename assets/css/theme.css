@@ -1,7 +1,5 @@
-
-/* @import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap"); */
-@import url("https://fonts.googleapis.com/css2?family=Dosis&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Fira+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Dosis&family=Fira+Sans&family=Indie+Flower&display=swap'); */
 
 
 :root,
@@ -24,8 +22,6 @@
 
   --hero-bg-color: rgba(39, 37, 34, 0.3);
 
-  /* --ko-color: #ed3c0d; */
-  /* --ok-color: #18d26e; */
 }
 /* .theme-dark {
   

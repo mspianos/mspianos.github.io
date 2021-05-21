@@ -22,10 +22,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 lang: fr
 baseurl: "/mspianos.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mspianos.fr" # the base hostname & protocol for your site, e.g. http://example.com
 canonical_url: 'https://example.com/'
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  mspianos
 analytics:
   matomo:
     trackerUrl: piwik.p2p.legal/
