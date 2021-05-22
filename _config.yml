@@ -21,9 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   et de renouer avec des valeurs plus artisanales, au sens noble du terme.  
 
 lang: fr
-baseurl: "/mspianos.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mspianos.fr" # the base hostname & protocol for your site, e.g. http://example.com
-canonical_url: 'https://example.com/'
+canonical_url: 'https://mspianos.fr/'
 # twitter_username: jekyllrb
 github_username:  mspianos
 analytics:
