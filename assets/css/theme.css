@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Fira+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Dosis&family=Fira+Sans&family=Indie+Flower&display=swap'); */
+
+
+:root,
+.theme-light {
+  --readable-font: "Fira Sans";
+  --fantasy-font: "Dosis";
+  /* --logo-font: "Indie Flower"; */
+  --speach-font: "Comic Neue";
+
+
+  /* --accent-color:		 hsl(36, 100%, 62%); */
+  --accent-color-h:	   36;
+  
+
+  --topbar-height: 50px;
+  --topbar-color: transparent;
+  /* --topbar-text-color: rgba(255, 255, 255, 0.7); */
+  /* --header-color: rgba(26, 24, 22, 0.85); */
+  --header-effect: blur(15px);
+
+  --hero-bg-color: rgba(39, 37, 34, 0.3);
+
+}
+/* .theme-dark {
+  
+} */
+.bg-anim {
+	--bg-anim-duration: 3s;
+}
+
+.about, .gallery, .contact {
+	background-color: var(--solid-color);
+}
+
+section .content,
+.about p {
+  text-align: justify;
+}
+
+.about h2 {
+	margin-bottom: 1.5rem;
+}
+
+@media (min-height: 1100px) {
+	section {
+		margin: 900px 0;
+	}
+}
+@media (max-height: 1100px) {
+	section {
+		margin: 600px 0;
+	}
+}
+@media (max-height: 900px) {
+	section {
+		margin: 500px 0;
+	}
+}
+@media (max-height: 700px) {
+	section {
+		margin: 400px 0;
+	}
+}
+@media (max-height: 500px) {
+	section {
+		margin: 300px 0;
+	}
+}

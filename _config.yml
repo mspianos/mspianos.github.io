@@ -1,0 +1,86 @@
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+
+title: MS pianos
+tagline: accordeur / restaurateur de piano
+email: &email contact@mspianos.fr
+
+# Here are a few tips you should remember when writing descriptions for your content:
+# - Keep it within 155 characters to make sure it is displayed properly in SERPs
+# - Include your focus keyword at least once — preferably near the beginning
+# - It should accurately describe what users should expect from your content
+# - Add a call-to-action or CTA to encourage more users to click
+description: >- # this means to ignore newlines until "baseurl:"
+  Contrairement aux autres instruments à cordes, le piano demande que l'accord 
+  soit fait par un professionnel. Fils d’artisan menuisier ébéniste, pianiste amateur 
+  et amoureux de la musique, le métier d’accordeur restaurateur de piano m’est 
+  très vite apparu comme une évidence. Il me permettrait de construire une certaine 
+  cohérence entre créativité, musicalité, besoin de rigueur, technicité et travail manuel 
+  dans une relation plus directe et plus authentique, retrouver le contact avec la matière 
+  et de renouer avec des valeurs plus artisanales, au sens noble du terme.  
+
+lang: fr
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://mspianos.fr" # the base hostname & protocol for your site, e.g. http://example.com
+canonical_url: 'https://mspianos.fr/'
+# twitter_username: jekyllrb
+github_username:  mspianos
+analytics:
+  matomo:
+    trackerUrl: piwik.p2p.legal/
+    siteId: 13
+    
+# devtools: true
+
+collections:
+  - subjects
+
+
+# Build settings
+markdown: kramdown
+remote_theme: devingfx/blox-theme-jekyll@dev
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README*
+
+defaults:
+  - scope:
+      # path: ""
+      type: pages
+    values:
+      layout: blox
+      header:
+        topbar:
+          - phone: "[+336 95 06 31 89](tel:+336 95 06 31 89)"
+          - envelope: "[contact@mspianos.fr](mailto:contact@mspianos.fr)"
+          - geo-alt: Alpes maritimes / Var / Drôme
+        mode: fixed-top
+        # offset: 500px
+        logo:
+          text: MS pianos
+          # image: 
+          url: "./#"
+        nav:
+          align: right
+  

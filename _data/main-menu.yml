@@ -1,0 +1,46 @@
+# Accord
+# Réglage mécanique
+# Harmonisation
+# Réparation
+# Restauration, Ébénisterie & Laque
+# Le numérique dans l’acoustique
+# Présentation
+# Galerie
+# Contact
+
+
+
+- url: "./#accord"
+  label: Accord
+  icon:
+  
+- url: "./#reglage"
+  label: Réglage mécanique
+  icon:
+
+- url: "./#harmonisation"
+  label: Harmonisation
+  icon:
+
+- url: "./#reparation"
+  label: Réparation
+  icon:
+
+- url: "./#restauration"
+  label: Restauration #, Ébénisterie & Laque
+  icon:
+  
+- url: "./#numerique"
+  label: Le numérique #dans l’acoustique
+  icon:
+
+
+
+- url: "./#about"
+  label: Qui suis-je
+  icon:
+
+- url: "./#contact"
+  label: Contact
+  class: btn call-to-action
+  icon:

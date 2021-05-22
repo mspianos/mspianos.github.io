@@ -1,0 +1,52 @@
+"@context": "https://schema.org"
+"@type": Person
+"@id": https://mspianos.fr/#about
+url: https://mspianos.fr/#about
+
+familyName: Sarrazy
+givenName: Mathieu
+name: Mathieu Sarrazy
+
+jobTitle: Technicien, accordeur / restaurateur de piano
+
+
+# image:
+  # "@type": ImageObject
+  # "@id": https://mspianos.fr/#personlogo
+  # url: https://mspianos.fr/assets/img/...
+  # caption: Mathieu Sarrazy
+
+description: >
+  Fils d’artisan menuisier ébéniste, pianiste amateur et amoureux de la musique, le métier d’accordeur restaurateur de piano m’est très vite apparu comme une évidence.
+  Il me permettrait de construire une certaine cohérence entre créativité, musicalité, besoin de rigueur, technicité et travail manuel dans une relation plus directe et plus authentique, retrouver le contact avec la matière et de renouer avec des valeurs plus artisanales, au sens noble du terme.
+
+sameAs:
+  - https://www.facebook.com/mathieu.sarrazy.pianos/
+#  - https://instagram.com/mspianos
+
+telephone: &tel +336 95 06 31 89
+email: &email contact@mspianos.fr
+contactPoint:
+  "@type": ContactPoint
+  contactType: mobile
+  telephone:
+    - *tel
+  email:
+    - *email
+
+hasCredential:
+  '@type': EducationalOccupationalCredential
+  educationalLevel: Diplôme
+  url: https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/
+  name: Diplômé de l’école Ignace Pleyel à Loos (59)
+  recognizedBy: 
+    '@type': Organization
+    url: https://ecole-regionale-deficients-visuels.enthdf.fr/
+    image:
+      "@id": https://scontent-cdt1-1.xx.fbcdn.net/v/t1.18169-1/c3.0.194.194a/10377615_593579420747956_1517162341323191441_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=dgDaTuy8-YgAX-U9JYU&_nc_ht=scontent-cdt1-1.xx&tp=29&oh=6c06ef83e19eeacafa71b148829272e6&oe=60C9FEF9
+    name: ERDV LOOS
+    alternateName: Ecole Ignace Pleyel
+    sameAs:
+      - https://www.facebook.com/pages/category/School/ERDV-LOOS-Officiel-593578784081353/
+    
+#hasOccupation: {"@id": https://mspianos.fr/#LocalBusiness }
