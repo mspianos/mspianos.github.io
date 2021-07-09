@@ -11,5 +11,6 @@ Accorder un piano, c’est venir réajuster la tension de l’ensemble des corde
 
 Un accord régulier, **a minima 1 fois par an**, permet également à l’accordeur de porter son attention sur l’ensemble de votre instrument, de diagnostiquer et de prévenir les futures défaillances. 
 
-- Forfait **accord simple** sur piano entretenu: 100€ 
-- Forfait **accord et mise au ton** sur piano non accordé régulièrement: 150€
+### Tarifs
+- Prix pour un **accord simple** sur piano entretenu: 100€ 
+- Prix pour un **accord et mise au ton** sur piano non accordé régulièrement: 150€
