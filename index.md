@@ -16,6 +16,7 @@ hero:
     image: ./medias/w1920/Acceuil.jpg
     content: |
       ![](./assets/img/logo-MSpianos-white.transparent.min.svg)
+      {: .logo }
       ## Mathieu **Sarrazy**
       {: .animate__animated .animate__fadeInDown data-body-bg="./medias/w1920/Acceuil.jpg" }
       

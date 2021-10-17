@@ -79,9 +79,8 @@ defaults:
         mode: fixed-top
         # offset: 500px
         logo:
-          text: MS pianos
-          # image: 
+          # text: MS pianos
+          image: ./assets/img/logo-MS-white.transparent.min.svg
           url: "./#"
         nav:
           align: right
-  
