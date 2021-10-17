@@ -42,6 +42,7 @@ markdown: kramdown
 remote_theme: devingfx/blox-theme-jekyll@dev
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
