@@ -33,7 +33,7 @@ hero:
           Diplômé de l’école [Ignace Pleyel à Loos (59)](https://ecole-regionale-deficients-visuels.enthdf.fr/metier-dart-accordeur-de-piano/)
           {: .animate__animated .animate__fadeInUp}
           
-          [Contactez moi](#contact){: .btn .animate__animated .animate__fadeInUp .scrollto}
+          [Contactez moi](#contact){: .btn.outline .animate__animated .animate__fadeInUp .scrollto}
 
 # sm md lg xl xxl 
 # hero:
