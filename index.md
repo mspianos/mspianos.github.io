@@ -19,7 +19,7 @@ hero:
       - size: 6 col-md-12
         # class: content
         content: |
-          ![](./assets/img/logo-MSpianos-white.transparent.min.svg)
+          ![](./assets/img/logo/logo-MSpianos-white.transparent.min.svg)
       
       - size: 6 col-md-12
         # class: content

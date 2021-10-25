@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" 
 	 id="MS-logo" viewBox="0 0 700 700" xml:space="preserve">
 	<style type="text/css">
-	.col1 {fill:#FFFFFF}
-	.col2 {fill:#000000}
-	.s-col1 {stroke:#FFFFFF}
-	.s-col2 {stroke:#000000}
+	.col1 {fill:#000000}
+	.col2 {fill:#FFFFFF}
+	.s-col1 {stroke:#000000}
+	.s-col2 {stroke:#FFFFFF}
 	.trait{stroke-width:2.5;stroke-linecap:round}
 	.fin{stroke-width:0.5}
 	.moyen{stroke-width:3}
 	.epais{stroke-width:5}
 	</style>
+	<rect id="fond" x="0" y="0" class="s-col1 col2 trait fin" width="700" height="700"/>
 	<g id="logo">
 		<g id="MS">
 			<g id="M">

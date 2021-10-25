@@ -80,7 +80,7 @@ defaults:
         # offset: 500px
         logo:
           # text: MS pianos
-          image: ./assets/img/logo-MS-white.transparent.min.svg
+          image: ./assets/img/logo/logo-MS-small-white.transparent.min.svg
           url: "./#"
         nav:
           align: right
