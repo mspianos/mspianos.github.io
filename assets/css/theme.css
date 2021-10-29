@@ -144,6 +144,8 @@ section.hero {
 			}
 			section.hero img {
 				transition: all 1s ease;
+				max-width: 400px;
+				margin-bottom: -50px;
 			}
 			.scrolled section.hero img {
 				transform: translate(-175px,0px) scale(0.3);
@@ -154,6 +156,44 @@ section.hero {
 				margin-bottom: -50px;
 				margin-top: 60px;
 				/* width: 100%; */
+			}
+			
+			@media (max-width: 500px) {
+				section.hero h2 {
+					font-size: 36px;
+				}
+				section.hero h2 {
+					font-size: 36px;
+					margin: 70px auto 10px auto;
+				}
+				section.hero p {
+					font-size: 13px;
+					margin: 0 auto 10px auto;
+				}
+			}
+			@media (max-height: 900px) {
+				section.hero h2 {
+					font-size: 36px;
+				}
+			}
+			@media screen and (max-width: 992px) and (orientation:landscape) {
+				section.hero .col-lg-12 {
+					flex: 0 0 auto;
+					width: 50%;
+				}
+				section.hero img {
+					max-width: initial;
+					margin-bottom: 0px;
+				}
+				section.hero h2 {
+					font-size: 36px;
+					margin: 70px auto 10px auto;
+				}
+
+				section.hero p {
+					font-size: 13px;
+					margin: 0 auto 10px auto;
+				}
 			}
 
 

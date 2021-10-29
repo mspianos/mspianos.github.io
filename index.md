@@ -16,12 +16,12 @@ hero:
     type: fluid content
     # class: center-text
     columns:
-      - size: 6 col-md-12
+      - size: 12
         # class: content
         content: |
           ![](./assets/img/logo/logo-MSpianos-white.transparent.min.svg)
       
-      - size: 6 col-md-12
+      - size: 12
         # class: content
         content: |
           ## Mathieu **Sarrazy**
