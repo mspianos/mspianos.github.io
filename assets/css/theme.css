@@ -208,3 +208,19 @@ section.hero .content .btn { -webkit-animation-delay: 2.8s; animation-delay: 2.8
 @media (max-height: 900px) { section { margin: 500px 0 } }
 @media (max-height: 700px) { section { margin: 400px 0 } }
 @media (max-height: 500px) { section { margin: 300px 0 } }
+
+
+/* ACCORD */
+
+section .content ul li {
+	margin: 0em 0em 1em 3em;
+}
+
+.price {
+	font-family: var(--fantasy-font), sans-serif;
+	font-size: large;
+}
+
+.explainer {
+	font-size: small;
+}
